@@ -1,0 +1,16 @@
+nav {
+    grid-area: nav;
+    background-color: #ffffff;
+    position: absolute;
+    width: 100vw;
+    height: 55px;
+  }
+  
+  nav img.logo {
+    max-width: fit-content;
+    max-height: fit-content;
+    height: 55px;
+    padding-left: 41px;
+  }
+
+
